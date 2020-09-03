@@ -1,8 +1,2 @@
 # Bike Indicator Light (BIL):
-A light indicator for bikes that will indicate my surrounding that I'm braking.
-
-# Goals:
-Add a brake light to my bike when I'm pressing my brakes.
-
-# Future Goals:
-Add a turn to the front and back of the bike to indicate Which direction I'm turning.
+A light indicator for bikes that will indicate my surrounding that I'm braking. This is done by taking the current position and speed of the bike, once you start to slow down, the braking lights will automatically turn on. On idle/cruising, a lights will be on to show the surrounding that the you are there.
